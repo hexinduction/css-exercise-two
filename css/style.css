@@ -97,7 +97,7 @@ a:visited { color: #cdcdcd}
 }
 
 .medium-pic {
-  background-image: #fff url(images/instagram-pic.jpg) no-repeat top center;
+  background-image: url(images/instagram-pic.jpg) no-repeat top center;
   width: 70%;
 }
 
