@@ -84,9 +84,11 @@ nav {
   width: 100%;
 }
 
-a: link { color: #ffffff; }
-a: hover { color: #2d2c2c; }
-a: active { color: #000000; }
+a {
+  color: #ffffff;
+  text-decoration: none;
+
+}
 
 .logo {
   background-image: url(images/bloc-logo.png) no-repeat top center;
