@@ -1,7 +1,8 @@
 h1 {
   font-size: 3em; /* 48px, base is 16px */
+  padding: 30px;
 }
-h2 {
+h3 {
   font-size: 2em; /* 32px, base is 16px */
 }
 body {
@@ -19,6 +20,7 @@ nav {
   width: 100%;
 }
 
+a {text-decoration: none }
 a: link { color: #ffffff; }
 a: hover { color: #2d2c2c; }
 a: active { color: #000000; }
