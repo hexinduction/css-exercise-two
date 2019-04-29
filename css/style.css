@@ -48,9 +48,11 @@ table {
 }
 
 h1 {
-  color: #000000;
+  color: #ffffff;
   font-size: 3em; /* 48px, base is 16px */
   text-align: left;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 h3 {
