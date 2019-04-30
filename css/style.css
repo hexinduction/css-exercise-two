@@ -77,6 +77,12 @@ nav {
   width: 100%;
 }
 
+a {
+  color: #ffffff;
+  text-decoration: none;
+
+}
+
 a:link { color: #ffffff }
 a:hover { color: #454545 }
 a:active { color: #898989}
