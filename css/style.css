@@ -84,6 +84,7 @@ a {
 
 a:hover { color: #454545 }
 a:active { color: #898989}
+a:visited { color: #cdcdcd}
 
 .logo {
   background-image: url(images/bloc-logo.png) no-repeat top center;
