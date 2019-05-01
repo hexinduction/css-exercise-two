@@ -13,12 +13,14 @@ h3 {
   text-align: left;
   padding-bottom: 30px;
 }
+
 body {
   font-size: 16px;
   font-family: sans-serif;
   background-color: #f7bcb4;
   color: #3a413f;
   line-height: 140%;
+	margin: 30px;
 }
 
 nav {
@@ -41,6 +43,10 @@ a:visited { color: #cdcdcd}
   background-image: url(images/bloc-logo.png) no-repeat top center;
   margin: 20px;
   width: 100px;
+}
+
+.story-text p {
+  margin-bottom: 20px;
 }
 
 .large-pic {
