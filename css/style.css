@@ -2,7 +2,6 @@ h1 {
   color: #454545;
   font-size: 3em; /* 48px, base is 16px */
   font-weight: bold;
-  line-height: 140%
   text-align: left;
   padding-top: 30px;
   padding-bottom: 30px;
@@ -47,6 +46,7 @@ a:visited { color: #cdcdcd}
 }
 
 .story-text p {
+  margin-top: 10px;
   margin-bottom: 20px;
 }
 
