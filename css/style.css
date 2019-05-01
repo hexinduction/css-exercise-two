@@ -2,6 +2,7 @@ h1 {
   color: #454545;
   font-size: 3em; /* 48px, base is 16px */
   font-weight: bold;
+  line-height: 140%
   text-align: left;
   padding-top: 30px;
   padding-bottom: 30px;
