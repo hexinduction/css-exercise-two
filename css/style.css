@@ -27,6 +27,7 @@ nav {
   background-color: #e97364;
   float: left;
   position: fixed;
+  top: 0;
   width: 100%;
 }
 
